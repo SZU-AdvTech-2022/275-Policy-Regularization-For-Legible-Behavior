@@ -1,0 +1,5 @@
+@article{2022Policy,
+  title={Policy Regularization for Legible Behavior},
+  author={ Persiani, Michele  and  Hellstrm, Thomas },
+  year={2022},
+}
