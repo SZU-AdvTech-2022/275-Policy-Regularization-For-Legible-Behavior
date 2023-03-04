@@ -1,5 +1,5 @@
-@article{2022Policy,
-  title={Policy Regularization for Legible Behavior},
-  author={ Persiani, Michele  and  Hellstrm, Thomas },
-  year={2022},
+@article{REPO-276,
+    author = "Persiani, Michele and Hellstrm, Thomas",
+    title = "{Policy Regularization for Legible Behavior}",
+    year = "2022"
 }
